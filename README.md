@@ -21,3 +21,8 @@ This is a simple yet fully functional *Calculator Web App* built using *HTML, **
 <img width="1292" height="928" alt="Screenshot calculator" src="https://github.com/user-attachments/assets/62b95d3e-712a-4fdb-a2df-06417c518860" />
 
 ## 📂 Folder Structure
+## 💡 How to Use
+
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/Shivam3383/CodeAlpha_Calculator.git
